@@ -10,7 +10,7 @@ CorrectUsername = 'DINO'
 os.system('clear')
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input('\033[1;91mENTER KEY......')
+    username = raw_input('\033[1;91mENTER KEY......SHAHDINOBALOCH')
     if (username == CorrectUsername):
             print '\033[1;92m Logged in successfully as '
             time.sleep(1)
